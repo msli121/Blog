@@ -12,4 +12,4 @@
 ## VS下载与安装
 
 - [VS官网](https://visualstudio.microsoft.com/zh-hans/downloads/)免费下载Visual Studio 2019社区版
-![vs2019community](https://raw.githubusercontent.com/msli121/Blog/master/images/vs2019community.png)
+
