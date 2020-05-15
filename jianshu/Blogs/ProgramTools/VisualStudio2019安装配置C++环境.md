@@ -13,4 +13,3 @@
 
 - [VS官网](https://visualstudio.microsoft.com/zh-hans/downloads/)免费下载Visual Studio 2019社区版
 
-![DSC_7165](https://github.com/msli121/Blog/tree/master/images/DSC_7165.jpg)
